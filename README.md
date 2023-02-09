@@ -1,0 +1,1 @@
+firsts steps on shell
