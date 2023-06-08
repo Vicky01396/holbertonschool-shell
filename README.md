@@ -7,7 +7,7 @@ In the old days, it was the only user interface available on a Unix-like system
 such as Linux. Nowadays, we have graphical user interfaces (GUIs) in addition
 to command line interfaces (CLIs) such as the shell.
 
-##Projects
+## Projects
 * Shell, basics
 * Shell, permissions
 * Shell, I/O Redirections and filters
