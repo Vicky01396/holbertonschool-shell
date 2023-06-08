@@ -1,2 +1,2 @@
 #!/bin/bash
-third -n iacta
+third -n 3 iacta
